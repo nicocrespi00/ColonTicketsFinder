@@ -1,0 +1,98 @@
+﻿Funcion: 12/7/2024 20:00:00 -03:00
+Sector: Paraiso de pie
+Cantidad Disponible Total: 2
+Cantidad Disponible Sector: 2
+Precio: 5800
+-------------------------------------------------
+
+Funcion: 12/7/2024 20:00:00 -03:00
+Sector: Paraiso de pie
+Cantidad Disponible Total: 2
+Cantidad Disponible Sector: 2
+Precio: 5800
+-------------------------------------------------
+
+Funcion: 12/7/2024 20:00:00 -03:00
+Sector: Paraiso de pie
+Cantidad Disponible Total: 2
+Cantidad Disponible Sector: 2
+Precio: 5800
+-------------------------------------------------
+
+Funcion: 12/7/2024 20:00:00 -03:00
+Sector: Paraiso de pie
+Cantidad Disponible Total: 2
+Cantidad Disponible Sector: 2
+Precio: $5800
+Hora de Consulta: 23/5/2024 17:25:02
+-------------------------------------------------
+Funcion: 12/7/2024 20:00:00 -03:00
+Sector: Paraiso de pie
+Cantidad Disponible Total: 2
+Cantidad Disponible Sector: 2
+Precio: $5800
+Hora de Consulta: 23/5/2024 17:27:03
+-------------------------------------------------
+Funcion: 12/7/2024 20:00:00 -03:00
+Sector: Paraiso de pie
+Cantidad Disponible Total: 2
+Cantidad Disponible Sector: 2
+Precio: $5800
+Hora de Consulta: 23/5/2024 17:27:17
+-------------------------------------------------
+Funcion: 12/7/2024 20:00:00 -03:00
+Sector: Paraiso de pie
+Cantidad Disponible Total: 2
+Cantidad Disponible Sector: 2
+Precio: $5800
+Hora de Consulta: 23/5/2024 17:28:17
+-------------------------------------------------
+Funcion: 12/7/2024 20:00:00 -03:00
+Sector: Paraiso de pie
+Cantidad Disponible Total: 2
+Cantidad Disponible Sector: 2
+Precio: $5800
+Hora de Consulta: 23/5/2024 17:29:17
+-------------------------------------------------
+Funcion: 12/7/2024 20:00:00 -03:00
+Sector: Paraiso de pie
+Cantidad Disponible Total: 2
+Cantidad Disponible Sector: 2
+Precio: $5800
+Hora de Consulta: 23/5/2024 17:30:17
+-------------------------------------------------
+Funcion: 12/7/2024 20:00:00 -03:00
+Sector: Paraiso de pie
+Cantidad Disponible Total: 2
+Cantidad Disponible Sector: 2
+Precio: $5800
+Hora de Consulta: 23/5/2024 17:31:18
+-------------------------------------------------
+Funcion: 12/7/2024 20:00:00 -03:00
+Sector: Paraiso de pie
+Cantidad Disponible Total: 2
+Cantidad Disponible Sector: 2
+Precio: $5800
+Hora de Consulta: 23/5/2024 17:32:18
+-------------------------------------------------
+Funcion: 12/7/2024 20:00:00 -03:00
+Sector: Paraiso de pie
+Cantidad Disponible Total: 2
+Cantidad Disponible Sector: 2
+Precio: $5800
+Hora de Consulta: 23/5/2024 17:35:37
+-------------------------------------------------
+Funcion: 12/7/2024 20:00:00 -03:00
+Sector: Paraiso de pie
+Cantidad Disponible Total: 2
+Cantidad Disponible Sector: 2
+Precio: $5800
+Hora de Consulta: 23/5/2024 17:36:37
+-------------------------------------------------
+Funcion: 12/7/2024 20:00:00 -03:00
+Sector: Paraiso de pie
+Cantidad Disponible Total: 2
+Cantidad Disponible Sector: 2
+Precio: $5800
+Hora de Consulta: 23/5/2024 17:37:38
+-------------------------------------------------

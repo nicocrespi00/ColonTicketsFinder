@@ -1,0 +1,28 @@
+Funcion: 12/7/2024 20:00:00 -03:00
+Sector: Paraiso de pie
+Cantidad Disponible Total: 2
+Cantidad Disponible Sector: 2
+Precio: 5800
+-------------------------------------------------
+
+Funcion: 12/7/2024 20:00:00 -03:00
+Sector: Paraiso de pie
+Cantidad Disponible Total: 2
+Cantidad Disponible Sector: 2
+Precio: 5800
+-------------------------------------------------
+
+Funcion: 12/7/2024 20:00:00 -03:00
+Sector: Paraiso de pie
+Cantidad Disponible Total: 2
+Cantidad Disponible Sector: 2
+Precio: 5800
+-------------------------------------------------
+
+Funcion: 12/7/2024 20:00:00 -03:00
+Sector: Paraiso de pie
+Cantidad Disponible Total: 2
+Cantidad Disponible Sector: 2
+Precio: 5800
+-------------------------------------------------
+
