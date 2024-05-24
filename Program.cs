@@ -7,12 +7,12 @@ Console.WriteLine("Hello, World!");
 
 List<string> funciones = new List<string> { "1669" };
 
-while(true)
+while (true)
 {
     foreach (string funcion in funciones)
     {
-        string hash = "27a1da40794e2cb05d97c6e6ad5a3bf8e1100dc6";
-        string url = $"https://api-ecommerce-live-gcba.entradauno.com/v1/api/v2/EspectaculoCartel/{funcion}?h={hash}";
+        string hash = "e715c522b5f2c0773614cc6f60e053ad99392017";
+        string url = $"https://api-ecommerce-live-gcba.entradauno.com/v1/api/v2/EspectaculoCartel/{1629}?h={hash}";
 
         using (HttpClient client = new HttpClient())
         {
@@ -21,7 +21,7 @@ while(true)
                 using (HttpContent content = response.Content)
                 {
                     string contentString = await content.ReadAsStringAsync();
-                    Welcome welcome = JsonConvert.DeserializeObject<Welcome>(contentString);
+                    Model1 welcome = JsonConvert.DeserializeObject<Model1>(contentString);
                     foreach (var item in welcome.OData.OEspectaculoCartel.ListaEstablecimiento)
                     {
                         foreach (var item2 in item.ListaFuncion)
@@ -58,7 +58,7 @@ while(true)
 
 static void LogToFile(string logEntry)
 {
-    string logFilePath = "C:\\Users\\Nico\\Documents\\Programacion\\Proyectos\\ColonTicketsFinder\\TextFile1.txt"; 
+    string logFilePath = "C:\\Users\\Nico\\Documents\\Programacion\\Proyectos\\ColonTicketsFinder\\TextFile1.txt";
 
     using (StreamWriter writer = new StreamWriter(logFilePath, true))
     {

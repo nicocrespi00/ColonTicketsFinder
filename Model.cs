@@ -7,7 +7,7 @@
     using Newtonsoft.Json;
     using Newtonsoft.Json.Converters;
 
-    public partial class Welcome
+    public partial class Model1
     {
         [JsonProperty("nCode")]
         public long NCode { get; set; }
